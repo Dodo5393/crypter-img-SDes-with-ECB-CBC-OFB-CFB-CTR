@@ -24,7 +24,8 @@ Install the Pillow library using pip:
 
 
 ```bash
-pip install pillow
+pip install pillow argparse
+
 ```
 
 ## Usage
