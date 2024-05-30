@@ -48,12 +48,4 @@ python sdes_image_encryption.py path_to_plaintext_image.extension
 - **sdes_image_encryption.py**: Main script containing the S-DES algorithm implementation and image encryption/decryption functions.
 - **README.md**: This document.
 
-## How to Run
 
-1. **Ensure you have the Pillow library installed by executing**:
-
-   
-
-   ```bash
-   pip install pillow
-   ```
