@@ -18,8 +18,9 @@
 
 - Python 3.x
 - Pillow (PIL) library
+- argparse
 
-Install the Pillow library using pip:
+Install the Pillow  and argparse library using pip:
 
 
 
